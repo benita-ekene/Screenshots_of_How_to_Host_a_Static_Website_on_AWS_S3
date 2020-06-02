@@ -3,25 +3,25 @@ In this project, a Static website was deployed on AWS. The website URL was http:
 
 ### The following procedures define how this task was achieved; ###
 
-**Step 1: Create S3 bucket**
+**Step 1: Create S3 bucket**\
 S3 bucket with the name motionblog was created.
 
-**Step 2: Make the bucket public** 
+**Step 2: Make the bucket public**\ 
 Motionblog was made public.
 
-**Step 3: Upload files to motionblog**
+**Step 3: Upload files to motionblog**\
 HTML file was uploaded to motionblog.
 
-**Step 4: Secure bucket via IAM role**
+**Step 4: Secure bucket via IAM role**\
 Motionblog was secured via IAM.
 
 **Step 5: Configure bucket**\
 Motionblog was configured.
 
-**Step 6: Distribute website via CloudFront**
+**Step 6: Distribute website via CloudFront**\
 Motonblog content was distributed via CloudFront.
 
-**Step 7:Access website in a web browser**
+**Step 7:Access website in a web browser**\
 Website accessed in a web browser
 
 ## CAVEAT ##
