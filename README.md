@@ -15,13 +15,13 @@ HTML file was uploaded to motionblog.
 **Step 4: Secure bucket via IAM role**
 Motionblog was secured via IAM.
 
-**Step 5: Configure bucket**
+**Step 5: Configure bucket**\
 Motionblog was configured.
 
 **Step 6: Distribute website via CloudFront**
 Motonblog content was distributed via CloudFront.
 
-** Step 7:Access website in a web browser**
+**Step 7:Access website in a web browser**
 Website accessed in a web browser
 
 ## CAVEAT ##
